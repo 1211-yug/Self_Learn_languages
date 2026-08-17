@@ -98,9 +98,9 @@ The project is designed to work across different screen sizes using CSS media qu
 
 ### 🔗 Connect With Me
 
-👉 **LinkedIn:** [Yug Patel]([YOUR_LINKEDIN_PROFILE_LINK](https://www.linkedin.com/in/yug-patel-bb5b0a362/))
+👉 **LinkedIn:** https://www.linkedin.com/in/yug-patel-bb5b0a362/
 
-👉 **GitHub:** [Yug Patel]([YOUR_GITHUB_PROFILE_LINK](https://github.com/1211-yug))
+👉 **GitHub:** https://github.com/1211-yug
 
 ---
 
