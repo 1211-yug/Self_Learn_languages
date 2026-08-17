@@ -6,11 +6,11 @@ The player can choose Rock, Paper, or Scissors, while the computer randomly gene
 
 ## 🌐 Live Demo
 
-👉 **[View Live Demo]([YOUR_LIVE_DEMO_LINK](https://stonpapersession.netlify.app/))**
+👉 https://stonpapersession.netlify.app/
 
 ## 💼 LinkedIn
 
-👉 **[View LinkedIn Post]([YOUR_LINKEDIN_POST_LINK](https://www.linkedin.com/in/yug-patel-bb5b0a362/))**
+👉 https://www.linkedin.com/in/yug-patel-bb5b0a362/
 
 ---
 
