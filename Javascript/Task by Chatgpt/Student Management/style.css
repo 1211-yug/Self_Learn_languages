@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    padding: 40px 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form {
+    background: white;
+    padding: 20px;
+    border: 1px solid #e6e4e4;
+    border-radius: 12px;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+.form input {
+    flex: 1;
+    padding: 12px;
+    border: 1px solid #e6e4e4;
+    border-radius: 8px;
+    outline: none;
+}
+
+.form button {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background: #161616;
+    color: white;
+}
+
+#studentContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.student-card {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+.student-info {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.student-info h4 {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    border: 1px solid #e6e4e4;
+    border-radius: 12px;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 4px 0;
+}
+
+.remove-btn {
+    width: 100%;
+    background: #ee2233;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.remove-btn:hover {
+    opacity: 0.9;
+}
+
+@media (max-width: 675px) {
+
+    .form {
+        flex-direction: column;
+    }
+
+    .student-info {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .student-card {
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+}
