@@ -1,0 +1,89 @@
+{
+    "products": [
+        {
+            "image":"https://m.media-amazon.com/images/I/61rbuaZn+AL._SL1500_.jpg",
+            "title": "OnePlus N6x",
+            "description": "OnePlus N6x | 4GB+64GB | Burgundy Red | 7000mAh Battery",
+            "price": "₹20,999",
+            "category":"Electronics"   
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/51yaelilEoL._SY741_.jpg",
+            "title": "Kurti Sets",
+            "description": "Kurta Palazzo Dupatta Set | Designer Kurti Set for Women",
+            "price": "₹949",
+            "category":"clothes"   
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71Jt0k0pO8L._SY625_.jpg",
+            "title": "Frido",
+            "description": "Frido Cloud Comfort Sandal For Men",
+            "price": "₹1899",
+            "category":"Footwear"   
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/31A-AWx8PLL._SX342_SY445_QL70_FMwebp_.jpg",
+            "title": "iPhone 16",
+            "description": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control",
+            "price": "₹67,490",
+            "category":"Electronics"   
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71rRRI-PsZL._SX679_.jpg",
+            "title": "GOLDENIZE",
+            "description": "GOLDENIZE FASHION Branded Men's Sport Quartz Watch",
+            "price": "₹498",
+            "category":"watch"   
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/61H1HxfTAUL._SY741_.jpg",
+            "title": "Casual Shirt",
+            "description": "Full Sleeve Button-Down Shirt with Dual Flap Pockets",
+            "price": "₹495",
+            "category":"clothes"   
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71I53evweVL._SY741_.jpg",
+            "title": "Kurti",
+            "description": "KLOSIA Women's Rayon Printed Anarkali Kurta and Pant with Dupatta Set",
+            "price": "₹799",
+            "category":"clothes"   
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71D7-uhwHAL._SL1500_.jpg",
+            "title": "Mini Nano Drone",
+            "description": "IZI Brephos Mini Nano Drone with 4K HDR Camera, Weighing Under 249g",
+            "price": "₹68,999",
+            "category":"Electronics"   
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/61dFcpPdJkL._SY741_.jpg",
+            "title": "KOTTY",
+            "description": "Mens Regular Fit|Classic Design with Stylish Look",
+            "price": "₹460",
+            "category":"clothes"   
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71zbCQIaJTL._SX679_.jpg",
+            "title": "TSAR BOMBA Watch",
+            "description": "Mens Watches Luxury Tonneau Watches for Men Waterproof 50M Analog Watch",
+            "price": "₹30,440",
+            "category":"watch"   
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/61Ok++LQIqL._SL1128_.jpg",
+            "title": "Drone with 4k Camera",
+            "description": "Drone with 4k Camera Foldable 1080P HD Drone",
+            "price": "₹2499",
+            "category":"Electronics"   
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/513--S7WFBL._SY500_.jpg",
+            "title": "Boldfit Shoes",
+            "description": "Boldfit Shoes for Man Stylish Sneakers",
+            "price": "₹1999",
+            "category":"Footwear"   
+        }
+
+    ]
+}
