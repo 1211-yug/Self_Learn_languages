@@ -6,7 +6,7 @@ This project was created to practice HTML, CSS, responsive web design, UI design
 
 ## 🚀 Live Demo
 
-🔗 
+🔗 https://majestic-creponne-320303.netlify.app/
 
 ## ✨ Features
 
